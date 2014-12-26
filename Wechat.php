@@ -4,7 +4,7 @@
  * User: 袁超<yccphp@163.com>
  * Time: 2014.12.20 上午11:24
  */
-namespace yuanchao\wechat\enda\weixin;
+namespace yuanchao\wechat;
 
 use Yii;
 use yii\base\Event;
